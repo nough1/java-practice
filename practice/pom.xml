@@ -11,6 +11,8 @@
   <url>http://maven.apache.org</url>
   <modules>
     <module>concurrent</module>
+    <module>io</module>
+    <module>generic</module>
   </modules>
 
   <properties>
