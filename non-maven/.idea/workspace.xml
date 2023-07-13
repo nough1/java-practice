@@ -4,28 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d1d0608-1586-45b2-9c75-8017014b84da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/non-maven.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringVerify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/generic/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/generic/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/generic/src/main/java/com/nou/mad/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/generic/src/test/java/com/nou/mad/java/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/io/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/io/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/io/src/main/java/com/nou/mad/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/io/src/test/java/com/nou/mad/java/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/pom.xml" afterDir="false" />
+    <list default="true" id="9d1d0608-1586-45b2-9c75-8017014b84da" name="Changes" comment="string intern">
+      <change afterPath="$PROJECT_DIR$/../practice/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/concurrent/src/main/java/com/nou/mad/java/juc/threadlocal/DateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/concurrent/src/main/java/com/nou/mad/java/juc/threadlocal/InheritableThreadLocalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/concurrent/src/main/java/com/nou/mad/java/juc/threadlocal/ThreadLocalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/concurrent/src/main/java/com/nou/mad/java/juc/threadlocal/TransmittableThreadLocalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/concurrent/src/main/java/com/nou/mad/java/thread/ThreadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringVerify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringVerify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/concurrent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/concurrent/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,12 +84,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688782928639</updated>
-      <workItem from="1688782932723" duration="7683000" />
+      <workItem from="1688782932723" duration="8611000" />
     </task>
+    <task id="LOCAL-00001" summary="string intern">
+      <created>1688975637514</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688975637514</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="string intern" />
+    <option name="LAST_COMMIT_MESSAGE" value="string intern" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
