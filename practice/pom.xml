@@ -13,6 +13,7 @@
     <module>concurrent</module>
     <module>io</module>
     <module>generic</module>
+      <module>memory</module>
   </modules>
 
   <properties>

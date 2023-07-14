@@ -1,10 +1,7 @@
 package com.nou.mad.java.thread;
 
 import java.util.List;
-import java.util.concurrent.Callable;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-import java.util.concurrent.FutureTask;
+import java.util.concurrent.*;
 
 public class ThreadDemo {
 
@@ -18,7 +15,7 @@ public class ThreadDemo {
         });
 
         ExecutorService executorService = Executors.newFixedThreadPool(3);
-        executorService.submit(new Runnable() {
+        Future<?> submit = executorService.submit(new Runnable() {
             @Override
             public void run() {
 
@@ -26,6 +23,9 @@ public class ThreadDemo {
         });
         List<Runnable> runnables = executorService.shutdownNow();
 
-
+        executorService.shutdown();
+        System.out.println(Integer.toBinaryString(-1));
+        System.out.println(Integer.toBinaryString(-1 << 29));
+        System.out.println(-1<<29);
     }
 }

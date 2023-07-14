@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d1d0608-1586-45b2-9c75-8017014b84da" name="Changes" comment="string intern">
-      <change afterPath="$PROJECT_DIR$/../practice/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/concurrent/src/main/java/com/nou/mad/java/juc/threadlocal/DateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/concurrent/src/main/java/com/nou/mad/java/juc/threadlocal/InheritableThreadLocalDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/concurrent/src/main/java/com/nou/mad/java/juc/threadlocal/ThreadLocalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/concurrent/src/main/java/com/nou/mad/java/juc/threadlocal/TransmittableThreadLocalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/concurrent/src/main/java/com/nou/mad/java/thread/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/memory/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/memory/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/memory/src/main/java/com/nou/mad/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringVerify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringVerify.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice/concurrent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/concurrent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/concurrent/src/main/java/com/nou/mad/java/thread/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/concurrent/src/main/java/com/nou/mad/java/thread/ThreadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688782928639</updated>
-      <workItem from="1688782932723" duration="8611000" />
+      <workItem from="1688782932723" duration="8912000" />
     </task>
     <task id="LOCAL-00001" summary="string intern">
       <created>1688975637514</created>
